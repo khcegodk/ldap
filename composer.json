@@ -1,15 +1,10 @@
 {
-    "name": "tiesa/ldap",
+    "name": "khcegodk/ldap",
     "description": "LDAP made easy & practical to use in PHP",
     "keywords": ["LDAP"],
-    "homepage": "https://github.com/ccottet/ldap",
+    "homepage": "https://github.com/khcegodk/ldap",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Cyril Cottet",
-            "email": "cyril.cottet@gmail.com"
-        }
-    ],
+    "authors": [],
     "require": {
         "php": ">=5.3.3",
         "ext-ldap": "*"
