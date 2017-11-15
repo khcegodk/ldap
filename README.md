@@ -11,7 +11,7 @@ Then, under your project root folder, create a new file called composer.json and
 
     {
         "require": {
-            "tiesa/ldap": "dev-master"
+            "khcegodk/ldap": "dev-master"
         }
     }
 
