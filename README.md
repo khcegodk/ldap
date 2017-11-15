@@ -1,4 +1,4 @@
-TIESA Ldap Component
+Ldap Component
 ====================
 
 Install
